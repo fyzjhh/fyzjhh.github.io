@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: 1d49a7b38ddcb9c69569
+  clientSecret: b1fd58e3b69d37a101243d86379c9935005d8641
   repo: fyzjhh.github.io
   owner: fyzjhh
 
