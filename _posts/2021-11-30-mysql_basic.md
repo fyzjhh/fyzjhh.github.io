@@ -7,6 +7,8 @@ comments: true
 author: fyzjhh
 ---
 
+<!-- more -->
+
 ### 一、安装mysql
 
 
