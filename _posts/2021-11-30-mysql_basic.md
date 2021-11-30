@@ -7,7 +7,6 @@ comments: true
 author: fyzjhh
 ---
 
-<!-- more -->
 
 ### 一、安装mysql
 
@@ -31,8 +30,11 @@ ln -s  mysql-5.7.33-linux-glibc2.12-x86_64  mysql
 ```
 
 
-
 2 、 添加mysql账号 ， 把mysql的命令添加到path中
+
+
+<!-- more -->
+
 
 useradd mysql 
 
