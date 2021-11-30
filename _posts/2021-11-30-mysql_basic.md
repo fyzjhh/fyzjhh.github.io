@@ -2,7 +2,7 @@
 layout: post
 title: "mysql基础"
 date:   2021-11-30
-tags: [geek]
+tags: [mysql]
 comments: true
 author: fyzjhh
 ---
