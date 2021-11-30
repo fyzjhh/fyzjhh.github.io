@@ -1,6 +1,13 @@
+---
+layout: post
+title: "mysql基础"
+date:   2021-11-30
+tags: [geek]
+comments: true
+author: fyzjhh
+---
+
 ### 一、安装mysql
-
-
 
 
 
